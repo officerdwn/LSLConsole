@@ -1,5 +1,5 @@
 ![alt text](https://github.com/officerdwn/LevathonScriptingLanguage/blob/main/LSL%20Logo.png?raw=true)
-# LevathonScriptingLanguage
+# Levathon Scripting Language
 Levathon Scripting Language is the Scripting Language created by officerdown. 
 # Source Code
 The language is programmed in Turbowarp, a Scratch modification.
