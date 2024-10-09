@@ -11,4 +11,4 @@ help: help is the central part of the program. It just shows all available comma
 clear: clears the screen.
 quiz is some goofy crap only in the console.
 # Compiler
-Compiler has less commands, but can make local scripts. You can get it here:
+Compiler has less commands, but can make local scripts. You can get it here: https://github.com/officerdwn/LSLCompiler
